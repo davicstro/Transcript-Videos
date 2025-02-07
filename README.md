@@ -16,10 +16,4 @@ Antes de executar o script, certifique-se de ter os seguintes requisitos instala
 - Biblioteca `yt-dlp` (para download de vídeos/áudio do YouTube)
 - FFmpeg (para conversão de formatos de áudio)
 
-### Instalação das Dependências
 
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/Transcript-Videos.git
-   cd Transcript-Videos
