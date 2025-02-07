@@ -1,0 +1,5 @@
+yt_dlp
+gtts
+whisper
+ffmpeg
+python3
