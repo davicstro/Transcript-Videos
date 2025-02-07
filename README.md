@@ -14,7 +14,6 @@ Antes de executar o script, certifique-se de ter os seguintes requisitos instala
 
 - Python 3.x
 - Biblioteca `yt-dlp` (para download de vídeos/áudio do YouTube)
-- Biblioteca `pytube` (opcional, para manipulação de URLs do YouTube)
 - FFmpeg (para conversão de formatos de áudio)
 
 ### Instalação das Dependências
